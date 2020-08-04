@@ -6,7 +6,7 @@ gem "rdoc"
 gem "rake-compiler", "~> 0.9.4"
 
 gem "nio4r", "~> 2.0"
-gem "rack", "~> 1.6"
+gem "rack", "~> 2.2"
 gem "minitest", "~> 5.11"
 gem "minitest-retry"
 gem "minitest-proveit"
